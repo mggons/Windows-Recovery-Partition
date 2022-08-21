@@ -6,8 +6,7 @@ Asegúrese de que su PC tenga instalado el complemento ADK y ADK windows PE.
 En caso de no tenerlos puedes obtenerlos en los siguientes links:
 
 Recuerda que las dos herramientas no son iguales cada una es independiente de sus funciones.
-ADK: https://go.microsoft.com/fwlink/?linkid=2120254
-ADK Windows PE: https://go.microsoft.com/fwlink/?linkid=2120253
+ADK: <link>https://go.microsoft.com/fwlink/?linkid=2120254</link>\nADK Windows PE: <link>https://go.microsoft.com/fwlink/?linkid=2120253</link>
 
 Inicie el entorno de herramientas de implementación e imágenes como administrador.
 
