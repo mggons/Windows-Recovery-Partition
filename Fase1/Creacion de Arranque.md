@@ -1,4 +1,4 @@
-Paso 1: Crear archivos de trabajo
+#Paso 1: Crear archivos de trabajo
 No importa qué tipo de medio vaya a crear, lo primero que debe hacer es crear un conjunto funcional de archivos de Windows PE en su PC del técnico.
 
 Asegúrese de que su PC tenga instalado el complemento ADK y ADK windows PE.
