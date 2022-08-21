@@ -6,9 +6,14 @@ Asegúrese de que su PC tenga instalado el complemento ADK y ADK windows PE.
 En caso de no tenerlos puedes obtenerlos en los siguientes links:
 
 Recuerda que las dos herramientas no son iguales cada una es independiente de sus funciones.
-ADK Windows PE: <link>https://go.microsoft.com/fwlink/?linkid=2120253</link>
-ADK: <link>https://go.microsoft.com/fwlink/?linkid=2120254</link>
+ADK: https://go.microsoft.com/fwlink/?linkid=2120254
+ADK Windows PE: https://go.microsoft.com/fwlink/?linkid=2120253
 
 Inicie el entorno de herramientas de implementación e imágenes como administrador.
 
-Ejecute para crear una copia funcional de los archivos de Windows PE. Para obtener más información acerca de copype, vea Opciones de línea de comandos de Copype
+Ejecute para crear una copia funcional de los archivos de Windows PE. Para obtener más información acerca de copype, vea Opciones de línea de comandos de Copype:
+Script:  copype amd64 C:\WinPE_amd64
+
+Paso 2: Personalizar Windows PE
+Las personalizaciones siguientes son comunes, pero no todas las imágenes de Windows PE requieren personalizaciones. Cuando agrega paquetes a Windows PE,
+puede ralentizar el rendimiento y el tiempo de arranque. Solo agregue paquetes adicionales cuando sea necesario.
