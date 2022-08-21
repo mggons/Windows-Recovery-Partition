@@ -14,6 +14,4 @@ Inicie el entorno de herramientas de implementación e imágenes como administra
 Ejecute para crear una copia funcional de los archivos de Windows PE. Para obtener más información acerca de copype, vea Opciones de línea de comandos de Copype:
 Script:  copype amd64 C:\WinPE_amd64
 
-Paso 2: Personalizar Windows PE
-Las personalizaciones siguientes son comunes, pero no todas las imágenes de Windows PE requieren personalizaciones. Cuando agrega paquetes a Windows PE,
-puede ralentizar el rendimiento y el tiempo de arranque. Solo agregue paquetes adicionales cuando sea necesario.
+Una vez tengas este archivo llamado Boot.WIM Prodecemos a la fase 2.
