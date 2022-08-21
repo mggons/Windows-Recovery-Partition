@@ -13,6 +13,6 @@ Inicie el entorno de herramientas de implementación e imágenes como administra
 
 Ejecute para crear una copia funcional de los archivos de Windows PE. <br>Para obtener más información acerca de copype, vea Opciones de línea de comandos de Copype:
 <br>
-<br><n1>Script:  copype amd64 C:\WinPE_amd64</n1>
+<br><h2>Script:  copype amd64 C:\WinPE_amd64</h2>
 
 Una vez tengas este archivo llamado Boot.WIM Prodecemos a la fase 2.
