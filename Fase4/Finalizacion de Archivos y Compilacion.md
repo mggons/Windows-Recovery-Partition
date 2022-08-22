@@ -1,4 +1,4 @@
-# Paso 3: Crear medios de arranque
+# Paso 4: Crear medios de arranque
 Ahora que ahora tiene un conjunto de archivos de trabajo, puede usar MakeWinPEMedia para crear medios WinPE de arranque.
 
 Crear una unidad USB de arranque de Windows PE
